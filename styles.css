@@ -129,6 +129,7 @@
     padding: 0 34px;
     padding-top: 144px;
     font-family: 'Fira Sans', sans-serif;
+    background-color: azure;
 
 }
 
@@ -221,6 +222,7 @@ p {
 
 .skillContainer {
     padding: 12px;
+    background-color: azure;
 }
 
 .skillItem {
